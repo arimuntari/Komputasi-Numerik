@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1522390582 source:d:\1--dataku\kuliah\semester 2\struktur data\coding\matrik\main.cpp
+	<iostream>
+	<iomanip>
+
+1522761385 source:d:\1--dataku\kuliah\semester 2\matematika diskrit\coding\matrik\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1522761386 source:d:\kuliah\komputasi numerik\matrik\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
